@@ -8,7 +8,7 @@
 
 Welcome to my GitHub! While my CV details my professional career, here you'll find the personal projects and technologies I tinker with. I focus on building robust cross-platform mobile apps and exploring new areas like Web3 and AI-assisted development.
 
-📫 **Contact:** [thiennguyen100799@gmail.com](mailto:thiennguyen100799@gmail.com) | [Facebook](https://www.facebook.com/thiennguyen.hd.dev/)
+📫 **Contact:** thienn***99@gmail.com | [Facebook](https://www.facebook.com/thiennguyen.hd.dev/)
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my GitHub! While my CV details my professional career, here you'll fi
 |---|---|
 | **[Athletiq Nutrition](https://github.com/snailb1007/athletic-nutrition)** | Personalized nutrition platform. Built with `.NET 10` backend and `Flutter` frontend. |
 | **[VeganLife (HealthyChef)](https://github.com/snailb1007/VeganLife)** | Nutrition tracking application. Published on the Google Play Store. |
-| **[ShareGuard](https://github.com/snailb1007/ShareGuard-Issues)** | Privacy-focused tool for URL cleaning and short link unwrapping. Built natively with `Kotlin`. |
+| **[ShareGuard](https://github.com/snailb1007/ShareGuard-Public)** | Privacy-focused tool for URL cleaning and short link unwrapping. Built natively with `Kotlin`. |
 
 ---
 
